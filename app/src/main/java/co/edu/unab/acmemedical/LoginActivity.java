@@ -29,6 +29,7 @@ public class LoginActivity extends AppCompatActivity {
             public void onClick(View view) {
                 String miCorreo = correo.getText().toString();
                 String miPassword = password.getText().toString();
+
                 if (miCorreo.isEmpty() ||
                         miPassword.isEmpty()) {
                     Toast.makeText(getApplicationContext(), "Favor llenar todos los campos", Toast.LENGTH_SHORT).show();
