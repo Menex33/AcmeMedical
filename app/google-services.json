@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "570215423350",
+    "firebase_url": "https://acmemedical-2c47f.firebaseio.com",
+    "project_id": "acmemedical-2c47f",
+    "storage_bucket": "acmemedical-2c47f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570215423350:android:6a53de109b51a51daeae57",
+        "android_client_info": {
+          "package_name": "co.edu.unab.acmemedical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570215423350-ls69aick52a31pd9fnfoph9e0n852bcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjSXDDDrklC3ASS-phmIBp5ewEESgUOP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570215423350-ls69aick52a31pd9fnfoph9e0n852bcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
